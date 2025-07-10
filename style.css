@@ -51,7 +51,10 @@ nav li a {
     text-decoration: none;
     font-size: 20px;
 }
-/* nanner styles */
+/* bnanner styles */
+.banner{
+    display: flex;
+}
 .banner-greetings{
  font-size: 45px;
  font-weight: 600;
@@ -59,4 +62,10 @@ nav li a {
 .banner-title{
     font-weight: bold;
     font-size: 85px;
+}
+.p-banner-description{
+    font-size: 18px;
+}
+.bannar-pofile-pic{
+    width: 580px;
 }

@@ -25,6 +25,12 @@
 
 
 }
+/* header bg*/
+.header{
+    background-image:url(./images/developer.png), url(./images/header_bg.png) ;
+    background-repeat: no-repeat;
+    background-position: top left, bottom right;
+}
 
 /* Nav styles */
 
@@ -54,6 +60,11 @@ nav li a {
 /* bnanner styles */
 .banner{
     display: flex;
+    justify-content: space-around;
+    margin: 0 35px 0 230 px;
+}
+.banner-content{
+    max-width: 580px;
 }
 .banner-greetings{
  font-size: 45px;

@@ -129,3 +129,20 @@ padding: 30px;
 border-radius: 5px;
 box-shadow: 0px 6px 50px 0px 000000e;
 }
+/* resume section style */
+.resume-column{
+  display: flex;
+  gap: 30px;
+}
+.resume-column-title{
+    color: #474747;
+}
+.experience-sub-title{
+    color: #757575;
+}
+.experience-title{
+    color: #474747;
+}
+.experience-description{
+    color: #757575;
+}
